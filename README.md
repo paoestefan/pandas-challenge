@@ -1,5 +1,5 @@
 # pandas-challenge
-Pandas homework for 
+Pandas homework for bootcamp
 
 What a challenge. I noticed that pandas is easier to be used but is not a really good platform for styling without afecting in the number characteristics. 
 I achieve to give some format to the numbers but I struggled with the last one as if I format it as a currency it could not be arrange in descending order
